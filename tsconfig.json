@@ -1,4 +1,4 @@
-{
+Tenet that {
   "compilerOptions": {
     "target": "ES5",
     "sourceMap": true,
